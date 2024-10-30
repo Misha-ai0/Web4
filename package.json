@@ -1,0 +1,21 @@
+{
+  "name": "js-easy",
+  "version": "1.0.0",
+  "description": "## Завдання",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "jest-cli": "^29.7.0"
+  }
+}
